@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 559635755}
   m_Layer: 0
   m_Name: Food
-  m_TagString: Untagged
+  m_TagString: Food
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -470,7 +470,7 @@ Transform:
   m_GameObject: {fileID: 559635751}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -22.97, y: -10.963, z: 0}
+  m_LocalPosition: {x: -2.54, y: 0.036999702, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -920,6 +920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4327da9bddea0e84d88a963df81e7c9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  segmentPrefab: {fileID: 2649075985118108098, guid: cfe912bde6699b54c9adf819c786a521, type: 3}
 --- !u!1 &1905528307
 GameObject:
   m_ObjectHideFlags: 0

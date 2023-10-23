@@ -33,6 +33,5 @@ public class Food : MonoBehaviour
         {
             RandomizePosition();
         }
-        
     }
 }
